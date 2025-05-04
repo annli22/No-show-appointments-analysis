@@ -7,7 +7,7 @@ This project analyzes a dataset of 100k+ medical appointments in Brazil to under
 To explore demographic, health-related, and scheduling factors that may influence no-show behavior. The goal is to identify patterns that can help healthcare providers reduce missed appointments.
 
 ## 📁 Files
-- `Investigate_a_Dataset.html` — Full report with visualizations and insights
+- `Investigate_NoShow_Appointments.html` — Full report with visualizations and insights
 
 ## 🛠️ Tools & Libraries
 - Python
